@@ -2,9 +2,9 @@
 MLFQ C语言实现
 MLFQ规则如下：
 
-• Rule 1: If Priority(A) > Priority(B), A runs (B doesn’t).
+• Rule 1: If Priority(A) > Priority(B), A runs (B doesn’t).\n
 • Rule 2: If Priority(A) = Priority(B), A & B run in round-robin fash-
-ion using the time slice (quantum length) of the given queue.
+ion using the time slice (quantum length) of the given queue.\n
 • Rule 3: When a job enters the system, it is placed at the highest
 priority (the topmost queue).
 • Rule 4: Once a job uses up its time allotment at a given level (re-
