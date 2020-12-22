@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "__mutex_base": "c",
+        "chrono": "c",
+        "ratio": "c",
+        "__locale": "c",
+        "__bit_reference": "c",
+        "__threading_support": "c",
+        "algorithm": "c",
+        "bitset": "c",
+        "map": "c",
+        "set": "c",
+        "unordered_map": "c"
+    }
+}
